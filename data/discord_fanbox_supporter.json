@@ -2,7 +2,7 @@
   "category": "fanbox_supporter",
   "guild_name": "WWR",
   "guild_id": 1058794032836395068,
-  "fetch_date": "2025-09-18T14:59:11.945611",
+  "fetch_date": "2025-09-18T15:10:12.084585",
   "roles": [
     {
       "role_id": 1418150186768928808,
@@ -10,10 +10,7 @@
       "role_color": "#f1c40f",
       "member_count": 1,
       "members": [
-        {
-          "display_name": "八雲長月",
-          "joined_at": "2023-04-28T16:42:04.524000+00:00"
-        }
+        "八雲長月"
       ]
     },
     {
