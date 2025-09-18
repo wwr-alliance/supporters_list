@@ -2,7 +2,7 @@
   "category": "fanbox_supporter",
   "guild_name": "WWR",
   "guild_id": 1058794032836395068,
-  "fetch_date": "2025-09-18T14:54:28.806585",
+  "fetch_date": "2025-09-18T14:59:11.945611",
   "roles": [
     {
       "role_id": 1418150186768928808,
@@ -11,12 +11,7 @@
       "member_count": 1,
       "members": [
         {
-          "user_id": 428095417197264897,
-          "username": "kesizumi",
-          "global_name": "八雲長月",
           "display_name": "八雲長月",
-          "discriminator": null,
-          "nickname": null,
           "joined_at": "2023-04-28T16:42:04.524000+00:00"
         }
       ]
