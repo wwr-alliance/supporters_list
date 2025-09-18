@@ -1,5 +1,6 @@
-import json,glob
+import json,glob,os
 data=[]
 for f in glob.glob('data/*.json'):
     with open(f)as x:data.append(json.load(x))
-with open('combined.json','w')as f:json.dump(data,f)
+os.makedirs('docs',exist_ok=True)
+with open('docs/index.json','w')as f:json.dump(data,f)
