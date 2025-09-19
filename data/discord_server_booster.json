@@ -1,12 +1,14 @@
 {
-  "category_name": "Discord Server Booster",
-  "fetch_date": "2025-09-19T00:26:01.579274",
+  "category_name": "Discord",
+  "fetch_date": "2025-09-19T06:54:52.306913",
   "roles": [
     {
       "role_name": "Server Booster",
       "role_color": "#f47fff",
-      "member_count": 0,
-      "members": []
+      "member_count": 1,
+      "members": [
+        "Fuma"
+      ]
     }
   ]
 }
