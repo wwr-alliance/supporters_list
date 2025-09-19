@@ -1,0 +1,132 @@
+[
+  {
+    "category_name": "Discord Server Booster",
+    "fetch_date": "2025-09-19T01:00:01.000000",
+    "roles": [
+      {
+        "role_name": "Server Booster Lv1",
+        "role_color": "#f47fff",
+        "member_count": 6,
+        "members": [
+          "Alice✨",
+          "太郎",
+          "みかん🍊",
+          "ボブ＠123",
+          "長谷川",
+          "☆Kana☆ the Star Traveler"
+        ]
+      },
+      {
+        "role_name": "Server Booster Lv2",
+        "role_color": "#e67e22",
+        "member_count": 4,
+        "members": [
+          "龍🐉",
+          "ゆき❄️",
+          "Ren-零",
+          "これはとても長い名前をテストするユーザーです12345"
+        ]
+      }
+    ]
+  },
+  {
+    "category_name": "pixivFANBOX Supporter",
+    "fetch_date": "2025-09-19T01:00:01.000000",
+    "roles": [
+      {
+        "role_name": "pixivFANBOX | Platinum",
+        "role_color": "#f1c40f",
+        "member_count": 5,
+        "members": [
+          "八雲長月",
+          "光-Hikari-",
+          "桜🌸",
+          "にゃんこ😺",
+          "長すぎる名前だけど切れずに表示されるかチェックするアカウント"
+        ]
+      },
+      {
+        "role_name": "pixivFANBOX | Gold",
+        "role_color": "#c27c0e",
+        "member_count": 3,
+        "members": [
+          "健太",
+          "ミカ＠音楽好き",
+          "★YUME★"
+        ]
+      }
+    ]
+  },
+  {
+    "category_name": "Event Participants",
+    "fetch_date": "2025-09-19T01:00:01.000000",
+    "roles": [
+      {
+        "role_name": "Workshop",
+        "role_color": "#1abc9c",
+        "member_count": 10,
+        "members": [
+          "りんご🍎",
+          "Leo⚡",
+          "湊",
+          "シオン🎶",
+          "花子",
+          "太一",
+          "夏希☀️",
+          "明☆",
+          "奈々",
+          "This_is_a_very_long_English_username_with_numbers_123456"
+        ]
+      },
+      {
+        "role_name": "Contest",
+        "role_color": "#3498db",
+        "member_count": 6,
+        "members": [
+          "ゆい♡",
+          "陽翔",
+          "葵",
+          "れん🦊",
+          "颯太",
+          "スペース を 入れた 名前 も テスト"
+        ]
+      }
+    ]
+  },
+  {
+    "category_name": "Moderators & Staff",
+    "fetch_date": "2025-09-19T01:00:01.000000",
+    "roles": [
+      {
+        "role_name": "Administrator",
+        "role_color": "#e74c3c",
+        "member_count": 2,
+        "members": [
+          "管理者1号",
+          "⚙️SystemAdmin with Super Long Title v2.0"
+        ]
+      },
+      {
+        "role_name": "Moderator",
+        "role_color": "#9b59b6",
+        "member_count": 4,
+        "members": [
+          "モデ1",
+          "Modくん",
+          "🌐世界",
+          "護衛#007"
+        ]
+      },
+      {
+        "role_name": "Helper",
+        "role_color": "#2ecc71",
+        "member_count": 3,
+        "members": [
+          "ヘルパーA",
+          "Helper_B",
+          "💡サポーター（長い補助説明付きアカウント）"
+        ]
+      }
+    ]
+  }
+]
