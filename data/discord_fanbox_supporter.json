@@ -1,14 +1,15 @@
 {
   "category_name": "pixivFANBOX",
-  "fetch_date": "2025-09-20T00:24:42.731031",
+  "fetch_date": "2025-09-20T07:38:05.163957",
   "roles": [
     {
       "role_name": "pixivFANBOX | Platinum",
       "role_color": "#d9c160",
-      "member_count": 2,
+      "member_count": 3,
       "members": [
-        "八雲長月",
-        "37(さんなな)"
+        "37(さんなな)",
+        "dagger1825",
+        "八雲長月"
       ]
     },
     {
