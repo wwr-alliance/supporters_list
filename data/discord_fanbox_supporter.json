@@ -1,6 +1,6 @@
 {
   "category_name": "pixivFANBOX",
-  "fetch_date": "2025-09-24T00:26:08.432282",
+  "fetch_date": "2025-09-24T08:19:22.498399",
   "roles": [
     {
       "role_name": "pixivFANBOX | Platinum",
@@ -15,8 +15,10 @@
     {
       "role_name": "pixivFANBOX | Gold",
       "role_color": "#977124",
-      "member_count": 0,
-      "members": []
+      "member_count": 1,
+      "members": [
+        "ceeper"
+      ]
     }
   ]
 }
