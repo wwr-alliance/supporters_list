@@ -1,24 +1,24 @@
 {
-  "category": "fanbox_supporter",
-  "guild_name": "WWR",
-  "guild_id": 1058794032836395068,
-  "fetch_date": "2025-09-18T16:30:22.362459",
+  "category_name": "pixivFANBOX",
+  "fetch_date": "2025-09-25T14:04:18.494178",
   "roles": [
     {
-      "role_id": 1418150186768928808,
       "role_name": "pixivFANBOX | Platinum",
-      "role_color": "#f1c40f",
-      "member_count": 1,
+      "role_color": "#d9c160",
+      "member_count": 3,
       "members": [
+        "37(さんなな)",
+        "dagger1825",
         "八雲長月"
       ]
     },
     {
-      "role_id": 1418150499114287265,
       "role_name": "pixivFANBOX | Gold",
-      "role_color": "#c27c0e",
-      "member_count": 0,
-      "members": []
+      "role_color": "#977124",
+      "member_count": 1,
+      "members": [
+        "ceeper"
+      ]
     }
   ]
 }
