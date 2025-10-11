@@ -1,26 +1,28 @@
 {
   "category_name": "pixivFANBOX",
-  "fetch_date": "2025-10-11T00:24:52.784185",
+  "fetch_date": "2025-10-11T12:06:56.462730",
   "roles": [
     {
       "role_name": "pixivFANBOX | Platinum",
       "role_color": "#d9c160",
-      "member_count": 6,
+      "member_count": 7,
       "members": [
         "37(さんなな)",
         "Kuro",
         "Number⑥_SIX6XIS",
         "Rebellion109",
         "dagger1825",
+        "ふぃーぬ",
         "八雲長月"
       ]
     },
     {
       "role_name": "pixivFANBOX | Gold",
       "role_color": "#977124",
-      "member_count": 1,
+      "member_count": 2,
       "members": [
-        "ceeper"
+        "ceeper",
+        "ジン"
       ]
     }
   ]
