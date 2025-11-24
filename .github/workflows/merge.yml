@@ -1,12 +1,17 @@
-name: Update Combined JSON
+name: Update Combined JSON and Deploy to Pages
 on:
   push:
     paths: ["data/*.json"]
 jobs:
-  merge:
+  merge-and-deploy:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - run: python merge.py
@@ -14,3 +19,12 @@ jobs:
         with:
           commit_message: "Auto-update docs/index.json"
           file_pattern: "docs/index.json"
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "./docs"
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
