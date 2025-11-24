@@ -2,6 +2,7 @@ name: Update Combined JSON and Deploy to Pages
 on:
   push:
     paths: ["data/*.json"]
+  workflow_dispatch:
 jobs:
   merge-and-deploy:
     runs-on: ubuntu-latest
