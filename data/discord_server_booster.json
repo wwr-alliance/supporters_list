@@ -1,14 +1,13 @@
 {
   "category_name": "Discord",
-  "fetch_date": "2025-11-25T00:26:42.746619",
+  "fetch_date": "2025-11-25T12:09:13.498894",
   "roles": [
     {
       "role_name": "Server Booster",
       "role_color": "#f47fff",
-      "member_count": 2,
+      "member_count": 1,
       "members": [
-        "@ΣПΛ$",
-        "🩵~MΛLΛKΉITΣ~🖤"
+        "@ΣПΛ$"
       ]
     }
   ]
