@@ -1,6 +1,6 @@
 {
   "category_name": "pixivFANBOX",
-  "fetch_date": "2025-11-26T00:28:31.520501",
+  "fetch_date": "2025-11-26T12:08:52.803266",
   "roles": [
     {
       "role_name": "pixivFANBOX | Platinum",
@@ -19,8 +19,9 @@
     {
       "role_name": "pixivFANBOX | Gold",
       "role_color": "#977124",
-      "member_count": 2,
+      "member_count": 3,
       "members": [
+        "AzLion",
         "Jhin",
         "ceeper"
       ]
